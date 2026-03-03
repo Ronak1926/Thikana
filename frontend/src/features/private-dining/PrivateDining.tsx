@@ -228,7 +228,7 @@ export default function PrivateDining() {
             </Card>
 
             {/* Check Availability */}
-            <Card className="rounded-[19.48px] border-0 bg-brand-forest shadow-[0_3.9px_11.69px_0_rgba(0,0,0,0.02)] md:min-h-67 shrink-0">
+            <Card className="rounded-[19.48px] border-0 bg-brand-forest shadow-[0_3.9px_11.69px_0_rgba(0,0,0,0.02)] shrink-0">
               <CardContent className="p-[27.27px] flex flex-col justify-between gap-3.25 h-full">
                 <div>
                   <span className="font-nunito uppercase tracking-widest text-[11px] text-white/60">
