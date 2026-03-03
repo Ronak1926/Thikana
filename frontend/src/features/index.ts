@@ -1,0 +1,9 @@
+export { default as Navbar } from "./navbar/Navbar";
+export { default as Hero } from "./hero/Hero";
+export { default as EatAndDrink } from "./eat-and-drink/EatAndDrink";
+export { default as WhyGuests } from "./why-guests/WhyGuests";
+export { default as PrivateDining } from "./private-dining/PrivateDining";
+export { default as GalleryLocation } from "./gallery-location/GalleryLocation";
+export { default as Instagram } from "./instagram/Instagram";
+export { default as Reservation } from "./reservation/Reservation";
+export { default as Footer } from "./footer/Footer";
